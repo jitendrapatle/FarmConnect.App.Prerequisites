@@ -1,0 +1,15 @@
+D:\Learning Dot net\FarmConnect.Learning\FarmConnect.Learning\bin\Debug\net10.0\FarmConnect.Learning.exe
+D:\Learning Dot net\FarmConnect.Learning\FarmConnect.Learning\bin\Debug\net10.0\FarmConnect.Learning.deps.json
+D:\Learning Dot net\FarmConnect.Learning\FarmConnect.Learning\bin\Debug\net10.0\FarmConnect.Learning.runtimeconfig.json
+D:\Learning Dot net\FarmConnect.Learning\FarmConnect.Learning\bin\Debug\net10.0\FarmConnect.Learning.dll
+D:\Learning Dot net\FarmConnect.Learning\FarmConnect.Learning\bin\Debug\net10.0\FarmConnect.Learning.pdb
+D:\Learning Dot net\FarmConnect.Learning\FarmConnect.Learning\obj\Debug\net10.0\FarmConnect.Learning.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning Dot net\FarmConnect.Learning\FarmConnect.Learning\obj\Debug\net10.0\FarmConnect.Learning.AssemblyInfoInputs.cache
+D:\Learning Dot net\FarmConnect.Learning\FarmConnect.Learning\obj\Debug\net10.0\FarmConnect.Learning.AssemblyInfo.cs
+D:\Learning Dot net\FarmConnect.Learning\FarmConnect.Learning\obj\Debug\net10.0\FarmConnect.Learning.csproj.CoreCompileInputs.cache
+D:\Learning Dot net\FarmConnect.Learning\FarmConnect.Learning\obj\Debug\net10.0\FarmConnect.Learning.dll
+D:\Learning Dot net\FarmConnect.Learning\FarmConnect.Learning\obj\Debug\net10.0\refint\FarmConnect.Learning.dll
+D:\Learning Dot net\FarmConnect.Learning\FarmConnect.Learning\obj\Debug\net10.0\FarmConnect.Learning.pdb
+D:\Learning Dot net\FarmConnect.Learning\FarmConnect.Learning\obj\Debug\net10.0\FarmConnect.Learning.genruntimeconfig.cache
+D:\Learning Dot net\FarmConnect.Learning\FarmConnect.Learning\obj\Debug\net10.0\ref\FarmConnect.Learning.dll
+D:\Learning Dot net\FarmConnect.Learning\FarmConnect.Learning\obj\Debug\net10.0\FarmConn.675C00F4.Up2Date
