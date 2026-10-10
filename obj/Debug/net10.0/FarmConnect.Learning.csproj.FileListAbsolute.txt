@@ -1,0 +1,14 @@
+C:\Users\banti\OneDrive\Desktop\Dot Net\FarmConnect.Learning\bin\Debug\net10.0\FarmConnect.Learning.exe
+C:\Users\banti\OneDrive\Desktop\Dot Net\FarmConnect.Learning\bin\Debug\net10.0\FarmConnect.Learning.deps.json
+C:\Users\banti\OneDrive\Desktop\Dot Net\FarmConnect.Learning\bin\Debug\net10.0\FarmConnect.Learning.runtimeconfig.json
+C:\Users\banti\OneDrive\Desktop\Dot Net\FarmConnect.Learning\bin\Debug\net10.0\FarmConnect.Learning.dll
+C:\Users\banti\OneDrive\Desktop\Dot Net\FarmConnect.Learning\bin\Debug\net10.0\FarmConnect.Learning.pdb
+C:\Users\banti\OneDrive\Desktop\Dot Net\FarmConnect.Learning\obj\Debug\net10.0\FarmConnect.Learning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\banti\OneDrive\Desktop\Dot Net\FarmConnect.Learning\obj\Debug\net10.0\FarmConnect.Learning.AssemblyInfoInputs.cache
+C:\Users\banti\OneDrive\Desktop\Dot Net\FarmConnect.Learning\obj\Debug\net10.0\FarmConnect.Learning.AssemblyInfo.cs
+C:\Users\banti\OneDrive\Desktop\Dot Net\FarmConnect.Learning\obj\Debug\net10.0\FarmConnect.Learning.csproj.CoreCompileInputs.cache
+C:\Users\banti\OneDrive\Desktop\Dot Net\FarmConnect.Learning\obj\Debug\net10.0\FarmConnect.Learning.dll
+C:\Users\banti\OneDrive\Desktop\Dot Net\FarmConnect.Learning\obj\Debug\net10.0\refint\FarmConnect.Learning.dll
+C:\Users\banti\OneDrive\Desktop\Dot Net\FarmConnect.Learning\obj\Debug\net10.0\FarmConnect.Learning.pdb
+C:\Users\banti\OneDrive\Desktop\Dot Net\FarmConnect.Learning\obj\Debug\net10.0\FarmConnect.Learning.genruntimeconfig.cache
+C:\Users\banti\OneDrive\Desktop\Dot Net\FarmConnect.Learning\obj\Debug\net10.0\ref\FarmConnect.Learning.dll
